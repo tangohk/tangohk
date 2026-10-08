@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tangohk
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java, web development related language like javascript, CSS, etc.
+- 🌱 I’m currently Ansible, PostgreSQL, shell script, etc.
 - At the same time, I'm also learning on RPA AA, OutSystems
 - For BI tools, I'm working on Power BI and learning for DAX
 - 💞️ I’m looking to collaborate on 
